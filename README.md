@@ -35,3 +35,5 @@ Have fun, and good luck!
 * Subtraction
 	 * Syntax:		a – b
 	 * Description:		returns a minus b
+
+## Score __/50
