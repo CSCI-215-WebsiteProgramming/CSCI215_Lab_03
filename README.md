@@ -1,6 +1,9 @@
-## Lab 03
+## Lab 03 - Intro to Javascript
+Name: _______________________________________
 
-# Assignment
+## DUE: 17 Sep 2017 @ 11:59 pm
+
+## Instructions:
 
 Compute the Body Surface Area (BSA), Ideal Body Weight (Male or Female), and Body Mass Index (BMI) values using the JavaScript programming language.
 
